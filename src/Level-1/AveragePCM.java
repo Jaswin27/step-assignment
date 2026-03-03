@@ -1,4 +1,4 @@
-package week1And2.level1;
+//package week1And2.level1;
 
 public class AveragePCM {
 
